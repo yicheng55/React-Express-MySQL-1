@@ -22,7 +22,7 @@ if (process.env.NODE_ENV === 'production') {
 
 const host = 'localhost';
 const user = 'root';
-const pswd = 'password';
+const pswd = '12345678';
 const dbname = 'books';
 
 // config db ====================================
